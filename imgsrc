@@ -1,0 +1,10 @@
+<div id='otherprofilewrap'>
+  <div id='firstimage'>
+    <img src='assets/img/profile/logo/avatar.jpg' witdh='150px' height='150px' class='profileimg'>
+  </div>
+  <div id='otherdetailswrap'>
+    <p> Lordwill E Mabalot </p>
+    <p> Course Section </p>
+    <p> lordwill.mabalo@gmail.com</p>
+    <p> Ojt adviser </p>
+  </div>

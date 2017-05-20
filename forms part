@@ -1,0 +1,16 @@
+
+                    <form class="part" method='POST' action=''>
+                      <input type="text" placeholder="Username" class="part-text" name="compLogN">
+                      <input type="password" placeholder="Password" class="part-text" name="compLogP">
+                      <input type= "submit" name="comp_login" class="part-reg">
+                    </form>
+
+                    <form class="part" action='' method='POST'>
+                      <input type="text" required placeholder="Username" class="part-text" name="compUs">
+                      <input type="password" required placeholder="Password" class="part-text" name="compPss">
+                      <input type="email" required placeholder="Email Address" class="part-text"name="compEml">
+                      <input type="text" required placeholder="Company Name" class="part-text"name="compNm">
+                      <input type="text" required placeholder="Company Address" class="part-text"name="compAd">
+                      <textarea required name="compAb" placeholder="About the Company"> </textarea>
+                      <input type="submit" class="part-reg" name="comp_reg">
+                    </form>
