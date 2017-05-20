@@ -1,0 +1,74 @@
+
+  ###        <div id="endorseabcomm" class="profileforms-box">
+  ###          <div id="imgword"></div>
+  ###          <p class='prereglabel'>Endorsement Letter ABCOMM </p>
+  ###        </div>
+
+  ###        <div id="endorsebshrm1" class="profileforms-box">
+  ###          <div id="imgword"></div>
+  ###          <p class='prereglabel'>Enrosement Letter BSHRM(1) </p>
+  ###        </div>
+
+  ###        <div id="endorsebshrm2" class="profileforms-box">
+  ###          <div id="imgword"></div>
+  ###          <p class='prereglabel'>Enrosement Letter BSHRM(2) </p>
+  ###        </div>
+
+  ###        <div id="endorsebshrm3" class="profileforms-box">
+  ###          <div id="imgword"></div>
+  ###          <p class='prereglabel'>Enrosement Letter BSHRM(3) </p>
+  ###        </div>
+
+  ###        <div id="endorsebstm1" class="profileforms-box">
+  ###        <div id="imgword"></div>
+  ###          <p class='prereglabel'>Enrosement Letter BSTM(1) </p>
+  ###        </div>
+
+  ###        <div id="endorsebstm2" class="profileforms-box">
+  ###          <div id="imgword"></div>
+  ###          <p class='prereglabel'>Enrosement Letter BSTM(2) </p>
+  ###        </div>
+
+          <div id="endorsehrs" class="profileforms-box">
+            <div id="imgword"></div>
+            <p class='prereglabel'>Enrosement Letter HRS</p>
+          </div>
+          <div id="endorsebsat" class="profileforms-box">
+            <div id="imgword"></div>
+            <p class='prereglabel'>Group Enrosement Letter BSAT </p>
+          </div>
+
+          <div id="endorsebsit" class="profileforms-box">
+            <div id="imgword"></div>
+            <p class='prereglabel'>Group Enrosement Letter BSIT, BSCS, ITP </p>
+          </div>
+
+          <div id="trainplanbsat" class="profileforms-box">
+            <div id="imgpdf"></div>
+            <p class='prereglabel'>OJT Training Plan for BSAT </p>
+          </div>
+
+          <div id="trainplanbsbm" class="profileforms-box">
+            <div id="imgxel"></div>
+            <p class='prereglabel'>OJT Training Plan for BSBM </p>
+          </div>
+      <div id="singlebsat" class="profileforms-box">
+            <div id="imgword"></div>
+            <p class='prereglabel'>Single Enrosement Letter BSAT </p>
+          </div>
+
+          <div id="singlebsbm" class="profileforms-box">
+            <div id="imgword"></div>
+            <p class='prereglabel'>Single Enrosement Letter BSBM </p>
+          </div>
+
+          <div id="singlebsit" class="profileforms-box">
+            <div id="imgword"></div>
+            <p class='prereglabel'>Single Enrosement Letter BSIT, BSCS, ITP </p>
+          </div>
+
+
+          <div id="trainplanbsit" class="profileforms-box">
+            <div id="imgword"></div>
+            <p class='prereglabel'>OJT Training Plan for BSIT, BSCS, ITP </p>
+          </div>

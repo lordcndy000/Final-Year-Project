@@ -1,0 +1,9 @@
+$output .= "<div id='dashuserwrapper'>
+<div id='dashuserwrap' data-id1=$oid>
+  <img  src='data:image;base64,".$row['ojt_pic']."' width='50px' height='50px' alt='No image yet' class='profileimg'>
+  <div id='dashuserflex'>
+    <p class='othername'>$ostudFname $ostudLname</p>
+    <p class='othersec'>$ostudCrs</p>
+  </div>
+  </div>
+</div>";
